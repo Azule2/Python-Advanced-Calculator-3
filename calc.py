@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title('Simple Calculator')
+root.title('Advanced Calculator')
 #root.geometry('500x350')
 
 
